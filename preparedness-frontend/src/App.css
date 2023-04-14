@@ -1,0 +1,40 @@
+.entire-content {
+    align-items: center;
+    text-align: center;
+}
+
+body {
+    background-image: url('/src/assets/background-image.jpeg');
+}
+
+h1 {
+    color: white;
+    font-size: 50px;
+}
+
+Label {
+    color: white;
+    font-size: 35px;
+}
+
+.input-field {
+    margin: 0 auto;
+    width: 50%;
+    padding: 6px 12px 6px 12px;
+    font-size: 18px;
+}
+
+.click-me, .reset {
+    display: flex;
+    justify-content: center;
+    color: white;
+    margin-top: 14px; 
+}
+
+.click-me {
+    margin-right: 10px;
+}
+
+.reset {
+    margin-left: 10px;
+}
