@@ -22,4 +22,3 @@ const ModalComponent = ({ modal, toggle, inputName }) => {
 }
 
 export default ModalComponent
- 
